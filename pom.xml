@@ -5,7 +5,7 @@
 
     <groupId>org.reactome.server</groupId>
     <artifactId>fireworks-layout</artifactId>
-    <version>3.48.0</version>
+    <version>3.49.0</version>
     <packaging>jar</packaging>
 
 	<name>Fireworks Layout</name>
